@@ -1,0 +1,21 @@
+.tittle {
+  font-weight: 500;
+}
+.text {
+  background-color: grey;
+}
+.text1 {
+  color: orange;
+  font-size: 20px;
+}
+
+.text2 {
+  color: green;
+  font-size: 48px;
+}
+.link {
+  padding: 120px;
+}
+hover.link {
+  color: red;
+}
